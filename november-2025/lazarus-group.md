@@ -8,7 +8,7 @@
 
 这不是一个孤立事件。根据区块链分析公司Chainalysis的数据，2024年朝鲜相关黑客组织从加密货币平台窃取了13.4亿美元，占全年所有加密货币盗窃总额的61%。而在过去六年间，Lazarus Group已经从全球加密货币行业窃取了超过60亿美元。
 
-![Lazarus trend chart](https://github.com/web3yaso/web3-law-blogs/blob/main/november-2025/Lazarus-trend-chart.png)
+![Lazarus trend chart](https://raw.githubusercontent.com/web3yaso/web3-law-blogs/main/november-2025/Lazarus-trend-chart.png)
 
 
 
