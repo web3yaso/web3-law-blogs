@@ -1,5 +1,7 @@
 # 香港Web3：当「合规」成为一场昂贵的赌注
 
+![Lazarus trend chart](https://raw.githubusercontent.com/web3yaso/web3-law-blogs/main/november-2025/Lazarus-trend-chart.png)
+
 **从政策宣言到制度落地，香港加密货币交易所正在经历什么？**
 
 ---
