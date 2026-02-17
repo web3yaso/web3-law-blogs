@@ -12,7 +12,7 @@
 
 ---
 
-## 一、把交易所与AWS/Cloudflare的差异
+## 一、交易所与AWS/Cloudflare的角色差异
 
 AWS、Cloudflare 这类公司在 Web2 世界的法律角色很清晰：**基础设施服务提供商**。你租的是算力、存储、网络、CDN、DNS、安全防护。它们的合同里通常都会写明“按现状提供”“不保证不中断”，并且把责任上限锁死在“服务费或服务抵扣（credit）”范围内。
 
@@ -26,7 +26,7 @@ AWS、Cloudflare 这类公司在 Web2 世界的法律角色很清晰：**基础�
 
 ---
 
-## 二、NYSE：它像 AWS，但只限“工具层”
+## 二、NYSE：它像AWS，但只限“工具层”
 
 最近我看到一份很有代表性的文件：[NYSE Online Tools Terms of Use](https://www.ice.com/publicdocs/nyse/NYSE_Online_Tools_Terms_of_Use.pdf)（你可以理解为“纽交所在线工具/信息系统使用条款”）。
 
